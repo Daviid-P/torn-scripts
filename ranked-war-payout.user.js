@@ -5,6 +5,8 @@
 // @author       Daviid-P [2851873]
 // @match        https://www.torn.com/factions.php?step=your*
 // @grant        none
+// @downloadURL  https://github.com/Daviid-P/torn-scripts/raw/main/ranked-war-payout.user.js
+// @updateURL    https://github.com/Daviid-P/torn-scripts/raw/main/ranked-war-payout.user.js
 // ==/UserScript==
 
 (function() {
